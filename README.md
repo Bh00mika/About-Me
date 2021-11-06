@@ -33,7 +33,7 @@ alt="kaggle_ovindu" height="30" width="40" /></a>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "What I cannot create, I dont understand!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthescinder.com%2Ftag%2Falphafold%2F&psig=AOvVaw3gyATFEGvaRAvFPrQHEAHV&ust=1636298324344000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNis8bSEhPQCFQAAAAAdAAAAABBE" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://thescinder.files.wordpress.com/2020/03/m_protein.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
