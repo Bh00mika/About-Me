@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i1.rgstatic.net/ii/profile.image/627141125365760-1526533504323_Q512/Bhoomika-Basumallik.jpg" height="300"/>
+  <img src="https://pbs.twimg.com/profile_images/1436598237721399298/zb_2T51E_400x400.jpg" height="300"/>
 </p>
 <br>
 
@@ -13,8 +13,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h1 align="center">Biotechnolgist | Biochemist </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
