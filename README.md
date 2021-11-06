@@ -53,7 +53,7 @@ alt="kaggle_ovindu" height="30" width="40" /></a>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
   <hr>
   <p align="center">
- <img src=" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
