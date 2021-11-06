@@ -7,10 +7,10 @@
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+<img src="https://img.shields.io/badge/Age-28-blue" />
+  <img src="https://img.shields.io/badge/Focus-Bioinformatics-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Germany%20India-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20German-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Biotechnolgist | Biochemist </h3>
@@ -39,7 +39,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ Callme: ***She/Her*** or ***TheFunnyOne*** 😊 <br>
 ✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
 ✔ I’m currently learning about **deep learning**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
@@ -87,7 +87,6 @@
 
 
 -----
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
 
 Last Edited on: 17/04/2021
 
