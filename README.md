@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20German-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Biotechnolgist | Biochemist </h3>
+<h1 align="center">Bhoomika Basu Mallik </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/bhoomika-basumallik/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" 
 alt="kaggle_ovindu" height="30" width="40" /></a>
@@ -27,11 +27,11 @@ alt="kaggle_ovindu" height="30" width="40" /></a>
 
 <p align="center">
   <em>
-    Hello, I am Bhoomika a <b>Biotechnologist</b> based in Germany a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    Hello, I am Bhoomika a <b>bioengineer</b> based in Germany and a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Biochemist</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "What I cannot create, I dont understand!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -40,10 +40,10 @@ alt="kaggle_ovindu" height="30" width="40" /></a>
 
 ✔ Callme: ***She/Her*** or ***TheFunnyOne*** 😊 <br>
 ✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ I’m currently learning about **ROSETTA**🥰<br>
+✔ I’m looking to collaborate with any **Bioinformatics projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ Fun fact : *If you are funnier than me, I will block you* 😎<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
