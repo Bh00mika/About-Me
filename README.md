@@ -15,8 +15,7 @@
 <hr>
 <h1 align="center">Biotechnolgist | Biochemist </h3>
 <p align="center">
-alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bhoomika-basumallik/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/bhoomika-basumallik/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" 
 alt="kaggle_ovindu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/that.bengaligirl/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bhoomka.basu/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
