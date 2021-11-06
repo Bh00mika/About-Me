@@ -38,10 +38,8 @@ alt="kaggle_ovindu" height="30" width="40" /></a>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***She/Her*** or ***TheFunnyOne*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **ROSETTA**🥰<br>
-✔ I’m looking to collaborate with any **Bioinformatics projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ I’m currently learning about **Protein Self Assembly**<br>
+✔ I’m currently playing around with **ROSETTA**🥰<br>
 ✔ Fun fact : *If you are funnier than me, I will block you* 😎<br><br><br><br>
  
 
