@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yt3.ggpht.com/ytc/AAUvwnjVy2ttAfZ_uSA4X4HsibjEOwxa-WY8JGZcy-epOQ=s900-c-k-c0x00ffffff-no-rj" height="200"/>
+  <img src="https://i1.rgstatic.net/ii/profile.image/627141125365760-1526533504323_Q512/Bhoomika-Basumallik.jpg" height="300"/>
 </p>
 <br>
 
